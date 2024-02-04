@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NusratBegum
+- 👋 Hi, I’m NusratBegum doing my Master's Program in Comupter Sciecnce
 - 👀 I’m interested in --> Data Analysis, ML
 - 🌱 I’m currently learning --> Python, SQL, R, Data mining, Statistics
 - 💞️ I’m looking to collaborate on --> Data Analysis Projects
