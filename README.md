@@ -2,7 +2,7 @@
 - 👀 I’m interested in --> Data Analysis, ML
 - 🌱 I’m currently learning --> Python, SQL, R, Data mining, Statistics
 - 💞️ I’m looking to collaborate on --> Data Analysis Projects
-- 📫 How to reach me --> https://nusratbegum.github.io/portfolio-website/
+- 📫 How to reach me --> Email at rupunzelnusrat5@gmail.com
 
 <!---
 NusratBegum/NusratBegum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
