@@ -64,9 +64,11 @@ Integrated real-time air quality and weather APIs to identify PM2.5 risk pattern
 - 📹 Creating vlogs about my learning journey
 - 🌱 Exploring advanced cloud architectures on GCP and Azure
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Nusrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NusratBegum&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NusratBegum&theme=radical&hide_border=true&background=0D1117)](https://github.com/NusratBegum)
+
+[![Nusrat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NusratBegum&theme=react-dark&hide_border=true&area=true)](https://github.com/NusratBegum)
 
 ## 🤝 Let's Connect!
 
