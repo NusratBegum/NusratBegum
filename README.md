@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Data%20Scientist%20%26%20ML%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
+![Header](<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MSc+Computer+Science+%40+Mahidol+University;Transforming+Data+into+Actionable+Insights;MLOps+%7C+Machine+Learning+%7C+Data+Analytics)](https://git.io/typing-svg)
 
