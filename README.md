@@ -14,7 +14,7 @@
 
 <img align="right" alt="Data Analytics" width="400" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-I'm a data enthusiast passionate about uncovering patterns and building intelligent systems. Currently pursuing my Master's in Computer Science with a focus on MLOps and drift detection, I love working on projects that bridge business strategy and technical implementation.
+I build resilient data ecosystems and turn complex datasets into actionable business strategies. Currently pursuing an MSc in Computer Science at Mahidol University, my technical focus lies at the intersection of Data Engineering and Machine Learning Operations (MLOps), specifically researching model drift in production environments.
 
 ### Education & Certifications
 
