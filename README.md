@@ -25,14 +25,9 @@ I build resilient data ecosystems and turn complex datasets into actionable busi
 ![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Certified-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Hult Prize](https://img.shields.io/badge/Hult%20Prize-Campus%20Award-gold?style=flat-square&logo=trophy&logoColor=white)
 
-### Professional Experience
-
-- **Business Development Intern** at Revolution Gaming
-  - Automated reporting workflows and built KPI dashboards
-  - Enhanced data-driven decision making processes
 
 ### Current Focus
-
+![Data Engineering](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MLOps](https://img.shields.io/badge/-MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Big Data](https://img.shields.io/badge/-Big%20Data%20on%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
