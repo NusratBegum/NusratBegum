@@ -27,7 +27,7 @@ I build resilient data ecosystems and turn complex datasets into actionable busi
 
 
 ### Current Focus
-![Data Engineering](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MLOps](https://img.shields.io/badge/-MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Big Data](https://img.shields.io/badge/-Big%20Data%20on%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
