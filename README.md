@@ -1,8 +1,8 @@
-## Hi, I'm Nusrat Begum
+## Nusrat Begum
 
-**Python Full-Stack Developer · Software Testing and UAT · M.Sc. Computer Science (MUICT) · Bangkok**
+**Full-Stack Web Developer · FastAPI · React · TypeScript · M.Sc. Computer Science (MUICT) · Bangkok**
 
-I build and deploy business web apps with FastAPI, React and PostgreSQL: user authentication, validated data entry, automated reporting, CI testing and documented REST APIs. I'm completing an M.Sc. in Computer Science at the Faculty of ICT, Mahidol University (MUICT), with my thesis defense in December 2026, and I'm first author of a paper at IEEE JCSSE 2026.
+Nusrat builds and deploys web apps with FastAPI, React and PostgreSQL. She is completing an M.Sc. in Computer Science at Mahidol University (MUICT) and is first author of an IEEE JCSSE 2026 paper.
 
 **Portfolio:** [nusratbegum.dev](https://nusratbegum.dev) · **Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11596765)
 
@@ -22,8 +22,7 @@ I build and deploy business web apps with FastAPI, React and PostgreSQL: user au
 - **Frontend:** React, TypeScript, JavaScript, Tailwind CSS, Vite, Three.js, GSAP
 - **Data and ML:** pandas, NumPy, scikit-learn, LightGBM, SHAP
 - **Databases:** PostgreSQL, SQLite, MongoDB
-- **Testing and QA:** pytest, Playwright, user acceptance testing, accessibility (WCAG)
-- **Tooling:** Git, GitHub Actions (CI/CD), Docker, Docker Compose, Linux, Vercel
+- **Tooling:** Git, GitHub Actions (CI/CD), Docker, Docker Compose, pytest, Playwright, Linux, Vercel
 
 ## Contact
 
