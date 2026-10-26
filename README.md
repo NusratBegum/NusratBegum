@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer · FastAPI · React · TypeScript · M.Sc. Computer Science (MUICT) · Bangkok**
 
-Nusrat builds and deploys web apps with FastAPI, React and PostgreSQL. She is completing an M.Sc. in Computer Science at Mahidol University (MUICT) and is first author of an IEEE JCSSE 2026 paper.
+Nusrat builds and deploys web apps with FastAPI, React and PostgreSQL. She has an M.Sc. in Computer Science from Mahidol University (MUICT) and is first author of an IEEE JCSSE 2026 paper. She is now learning cloud and distributed systems: Kubernetes, AWS, GCP, Redis and microservices.
 
 **Portfolio:** [nusratbegum.dev](https://nusratbegum.dev) · **Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11596765)
 
@@ -23,6 +23,7 @@ Nusrat builds and deploys web apps with FastAPI, React and PostgreSQL. She is co
 - **Data and ML:** pandas, NumPy, scikit-learn, LightGBM, SHAP
 - **Databases:** PostgreSQL, SQLite, MongoDB
 - **Tooling:** Git, GitHub Actions (CI/CD), Docker, Docker Compose, pytest, Playwright, Linux, Vercel
+- **Cloud (learning now):** Kubernetes, AWS, GCP, Redis, microservices
 
 ## Contact
 
