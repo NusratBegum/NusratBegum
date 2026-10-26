@@ -1,41 +1,29 @@
-## Hi, I'm Nusrat 👋
+## Hi, I'm Nusrat Begum
 
-**Backend Engineer | Python | FastAPI | PostgreSQL | Docker | Cloud**
+**Backend and full-stack developer · Python, FastAPI, React, TypeScript · Bangkok**
 
-## About Me
+I build tested APIs and web apps and ship them live. I'm an M.Sc. Computer Science student at the Faculty of ICT, Mahidol University (MUICT), graduating in 2027, and first author of a paper at IEEE JCSSE 2026.
 
-I build robust, high-performance backend systems and production-ready web applications. Having completed my MSc in Computer Science at Mahidol University, my technical focus lies in designing scalable RESTful APIs, asynchronous architectures, and resilient database layers. 
+**Portfolio:** [nusratbegum.dev](https://nusratbegum.dev) · **Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11596765)
 
-I value end-to-end reliability from structured data modeling and secure authentication to automated testing and containerized cloud deployments.
+## Projects
 
--  **Location:** Bangkok, Thailand
--  **Education:** MSc in Computer Science (Mahidol University) | BBA in International Business
--  **Core Focus:** Backend Architecture, API Development, Microservices, and Cloud Infrastructure
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| [Smart Calculator API](https://github.com/NusratBegum/smart-calculator) | REST API with JWT sign-up and login, safe expression evaluation and per-user history; 20 pytest tests | FastAPI, SQLAlchemy, PostgreSQL, Docker Compose | [Demo](https://smart-calculator-api.vercel.app) |
+| [Diabetes Risk API](https://github.com/NusratBegum/Diabetes-Prediction) | scikit-learn model served behind validated endpoints, with a model card and CI; 0.83 ROC AUC on held-out data | FastAPI, Pydantic, scikit-learn, GitHub Actions | [Demo](https://nusrat-diabetes-api.vercel.app) |
+| [Bangkok Air Quality Tracker](https://github.com/NusratBegum/Data-Science-Final-Project) | Scheduled GitHub Actions pipeline collecting daily PM2.5 readings for Bangkok, Beijing and Los Angeles since March 2025, with a live dashboard | Python, pandas, GitHub Actions, Chart.js | [Dashboard](https://bangkok-air-quality.vercel.app) |
+| [EADD drift detector](https://github.com/NusratBegum/unsupervised-concept-drift-detection) | Master's thesis: label-free data drift detection for ML features; detected more drift types than D3 across 13 real-world streams (sign test p = 0.001) | Python, LightGBM, SHAP, pytest | [Paper](https://ieeexplore.ieee.org/document/11596765) |
+| Portfolio site | Scroll-driven 3D portfolio | React, TypeScript, Three.js, GSAP, Tailwind CSS, Vite | [nusratbegum.dev](https://nusratbegum.dev) |
 
-## Tech Stack
+## Tech stack
 
-### Languages & Frameworks
-- **Languages:** Python, JavaScript, SQL
-- **Backend & APIs:** FastAPI, RESTful APIs, OAuth2, JWT
-- **Data Modeling & ORM:** Pydantic, SQLAlchemy
-- **Frontend:** React, HTML5/CSS3
+- **Backend:** Python, FastAPI, Pydantic, SQLAlchemy, REST APIs, JWT auth
+- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS, Vite, Three.js, GSAP
+- **Data and ML:** pandas, NumPy, scikit-learn, LightGBM, SHAP
+- **Databases:** PostgreSQL, SQLite
+- **Tooling:** Git, GitHub Actions, Docker Compose, pytest, Playwright, Vercel
 
-### Databases & Caching
-- **Relational:** PostgreSQL
-- **In-Memory/Cache:** Redis
+## Contact
 
-###  DevOps, Cloud & Testing
-- **Containerization & Orchestration:** Docker, Kubernetes
-- **Cloud Platforms:** AWS, GCP, Azure
-- **CI/CD & Version Control:** Git, GitHub Actions
-- **Testing:** pytest
-
-## 🤝 Let's Connect
-
-I'm always excited to collaborate on backend architectures, API integrations, or chat about scalable cloud systems!
-
-- 📧 **Email:** [rupunzelnusrat5@gmail.com](mailto:rupunzelnusrat5@gmail.com)
-- 💼 **LinkedIn:** [in/nusrat-begum](https://www.linkedin.com/in/nusrat-begum)
-- 📝 **Medium:** [@rupunzelnusrat5](https://medium.com/@rupunzelnusrat5)
-
-*Let's build something scalable.*
+[LinkedIn](https://www.linkedin.com/in/nusrat-begum/) · [Medium](https://medium.com/@rupunzelnusrat5) · [rupunzelnusrat5@gmail.com](mailto:rupunzelnusrat5@gmail.com)
