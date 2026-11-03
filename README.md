@@ -57,6 +57,7 @@ More projects:
 
 | Project | What it is | Live |
 |---|---|---|
+| [QueueFlow](https://github.com/NusratBegum/queueflow) | Walk-in queue app for clinics: customers join from their phone and see their place in line; `SKIP LOCKED` stops two counters calling the same person; 14 pytest tests | [Demo](https://queueflow-demo.vercel.app) |
 | [Smart Calculator API](https://github.com/NusratBegum/smart-calculator) | Authenticated REST API and web client: OAuth2 with JWT and bcrypt, per-user history, 20 pytest tests and a Docker build in CI | [Demo](https://smart-calculator-api.vercel.app) |
 | [Portfolio site](https://github.com/NusratBegum/portfolio) | Scroll-driven 3D portfolio in React, TypeScript, Three.js and GSAP; 3D model cut from 10 MB to 0.8 MB (−92%) | [nusratbegum.dev](https://nusratbegum.dev) |
 
